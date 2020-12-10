@@ -1,0 +1,50 @@
+input[type="file"]{
+    display: none;
+}
+.btnUpload{
+    color: #009444;
+    background-color: #DEFFED;
+    border: 1px solid #009444;
+
+}
+.adminService{
+    background-color: #F5F6FA;
+    height: 1000px;
+}
+.addServiceSec{
+    background-color: white;
+    border-radius: 15px;
+}
+
+table{
+    border-collapse: separate !important;
+    border-spacing: 0;
+}
+.serveListBg{
+    border-collapse: separate !important;
+     
+}
+.serveListBg th {
+    padding: 10px;
+    width: 150px;
+    background-color: #F5F6FA;
+}
+
+.serveListBg td{
+    width: 150px;
+}
+
+
+.serveListBg td:first-child, .serveListBg th:first-child {
+    border-left: none;
+}
+.serveListBg th:first-child {
+    -moz-border-radius: 15px 0 0 0;
+    -webkit-border-radius: 15px 0 0 0;
+    border-radius: 15px 0 0 15px;
+}
+.serveListBg th:last-child {
+    -moz-border-radius: 0 15px 0 15px;
+    -webkit-border-radius: 0 15px 0 15px;
+    border-radius: 0 15px 15px 0;
+}

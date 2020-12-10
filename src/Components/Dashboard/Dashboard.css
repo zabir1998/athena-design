@@ -1,0 +1,9 @@
+.bgSidebar{
+    background: linear-gradient(155deg, rgb(75, 212, 110), #9dc1f8, #5e3e91, #2404b4); 
+  text-decoration: none; 
+  color: white;
+  border: none;
+}
+.btnDashboard:hover{
+    background-color: #d3d8f0;
+}
