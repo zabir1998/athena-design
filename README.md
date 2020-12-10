@@ -1,4 +1,4 @@
-# Apartment Hunt(https://apartment-hunt-demo.netlify.app/) #
+# Athena Design(https://athena-live-site.web.app/) #
 
 ### Contributor Name:
 [Md Jidanul Hakim Jitu](https://github.com/jh-jitu)
@@ -11,6 +11,7 @@
 3. Admin can add any Rent House by using his dashboard.
 4. Customer can  see their bookings after login. As after login they will find their dashboard.
 5. Admin can monitor the booking list as there is a option in his dashboard and can also change the booking status.
+6. There is also a demo payment service added.
 
 
 ## Used Frameworks/Library
